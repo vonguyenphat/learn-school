@@ -1,0 +1,2 @@
+sk,sk01,Gạo,1000,Tư Hoảnh,27000.0,Hàn Quốc,32400.0
+sk,sk02,Mực,100,Nhà máy chế biến hải sản,270000.0,Mỹ,324000.0
